@@ -1,1 +1,5 @@
-
+id: 1,
+title: Open the site from the link through the banner,
+steps: Click on the banner,
+er: Site opens,
+ar: Error 404
