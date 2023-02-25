@@ -28,7 +28,7 @@ Homework 1 TXT
 `$ git commit -m "Update file txt"`  
 `$ git push`
 9. Создать файл preferences.txt.  
-`$ touch preferences.xml`
+`$ touch preferences.txt`
 10. В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.  
 `$ vim preferences.txt`  
 `i # добавляем информацию.`  
