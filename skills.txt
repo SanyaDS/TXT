@@ -1,0 +1,3 @@
+skills_1: QA,
+skills_2: English,
+skills_3: Teamwork

@@ -1,0 +1,5 @@
+movie: Ghostbusters,
+series: The lord of the rings,
+food: Burger,
+season: Summer,
+country: USA
